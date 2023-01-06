@@ -1,2 +1,2 @@
-# Decode
-Blog website which will provide Problem of the day coding Question
+# CodeNerve.github.io
+Terminal based portfolio website for CodeNerve
