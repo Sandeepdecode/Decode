@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+# Sandeepdecode.github.io
+Problem of the Day - Coding problems
