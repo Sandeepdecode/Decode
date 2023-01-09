@@ -3,22 +3,24 @@
 
  "<span id="k">Find the solution</span>". <!-- sjkfhskjf -->
 
-<h2>Problem 3</h2>
+    <h1>Problem</h1>
     <p>
-      Write a function <code>is_prime</code> that takes a positive integer <code>n</code> and returns <code>True</code> if <code>n</code> is a prime number, and <code>False</code> otherwise.
+      Write a function <code>fizzbuzz</code> that takes an integer <code>n</code> and returns a list of integers from <code>1</code> to <code>n</code>, replacing multiples of three with the string <code>"Fizz"</code>, multiples of five with the string <code>"Buzz"</code>, and multiples of both three and five with the string <code>"FizzBuzz"</code>.
     </p>
     <h2>Constraints</h2>
     <ul>
-      <li><code>n</code> is a positive integer with value at most 10^6.</li>
+      <li><code>n</code> is an integer with value at most 10^3.</li>
     </ul>
     <h2>Examples</h2>
     <pre>
-is_prime(2) => True
-is_prime(3) => True
-is_prime(4) => False
-is_prime(5) => True
-is_prime(6) => False
+fizzbuzz(15) => [1, 2, "Fizz", 4, "Buzz", "Fizz", 7, 8, "Fizz", "Buzz", 11, "Fizz", 13, 14, "FizzBuzz"]
+fizzbuzz(5) => [1, 2, "Fizz", 4, "Buzz"]
+fizzbuzz(3) => [1, 2, "Fizz"]
     </pre>
+
+    <p>
+      You can use any programming language you like. Let me know if you have any questions about the problems or if you need additional clarification.
+    </p>
 
 
 
