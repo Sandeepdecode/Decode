@@ -1,20 +1,22 @@
-<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/09.01.23
+<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/11.01.23
 <span id="a">@decode</span>:<span id="b">~</span><span id="c">$</span>  Problem of the day;
 
  "<span id="k">Find the solution</span>". <!-- sjkfhskjf -->
 
     <h1>Problem</h1>
     <p>
-      Write a function <code>is_unique</code> that takes a string <code>s</code> and returns <code>True</code> if all the characters in <code>s</code> are unique, and <code>False</code> otherwise.
+Write a function <code>longest_palindromic_substring</code> that takes a string s and returns the longest palindromic substring of s.
+A palindromic substring is a substring of a string that is the same when read forwards and backwards.
+You may assume that the input string has at least one character.
     </p>
     <p>
       You may assume that the input string has at most length 10^5.
     </p>
     <h2>Examples</h2>
     <pre>
-is_unique("abcdefg") => True
-is_unique("abcdefga") => False
-is_unique("") => True
+longest_palindromic_substring("babad") => "bab" or "aba"
+longest_palindromic_substring("cbbd") => "bb"
+longest_palindromic_substring("a") => "a"
     </pre>
 
     <p>
