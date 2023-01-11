@@ -99,6 +99,18 @@ largest_rectangle_area([5, 4, 3, 2, 1]) => 9
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 problem 5 - 10.01.23
+
+Problem for beginners:
+Write a function is_unique that takes a string s and returns True if all the characters in s are unique, and False otherwise.
+
+Examples
+
+is_unique("abcdefg") => True
+is_unique("abcdefga") => False
+is_unique("") => True
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Problem 6 - 11.01.23
+ 
 Problem for intermediate coders:
 Write a function longest_palindromic_substring that takes a string s and returns the longest palindromic substring of s.
 A palindromic substring is a substring of a string that is the same when read forwards and backwards.
@@ -112,14 +124,4 @@ longest_palindromic_substring("babad") => "bab" or "aba"
 longest_palindromic_substring("cbbd") => "bb"
 longest_palindromic_substring("a") => "a"
 
-Problem for beginners:
-Write a function is_unique that takes a string s and returns True if all the characters in s are unique, and False otherwise.
-
-Examples
-
-is_unique("abcdefg") => True
-is_unique("abcdefga") => False
-is_unique("") => True
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-
-
