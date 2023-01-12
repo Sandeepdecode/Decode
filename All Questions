@@ -125,3 +125,11 @@ longest_palindromic_substring("cbbd") => "bb"
 longest_palindromic_substring("a") => "a"
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+Problem 7 - 12.01.23
+Write a function frequency that takes a string s and returns the frequency of each Character in the string.
+You may assume that the input string has at least one character.
+
+Examples:
+frequency("Decode") => {d:2, e:2, c:1, o:1}
+frequency("Hello") => {h:1, e:1, l:2, o:1}
+----------------------------------------------------------------------------------------------------------------------------------------------------
