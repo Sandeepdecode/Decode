@@ -1,27 +1,26 @@
-<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/11.01.23
+<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/12.01.23
 <span id="a">@decode</span>:<span id="b">~</span><span id="c">$</span>  Problem of the day;
 
  "<span id="k">Find the solution</span>". <!-- sjkfhskjf -->
 
-    <h1>Problem</h1>
+    <h3>Problem</h3>
     <p>
-Write a function <code>longest_palindromic_substring</code> that takes a string s and returns the longest palindromic substring of s.
-A palindromic substring is a substring of a string that is the same when read forwards and backwards.
+Write a function frequency that takes a string s and returns the frequency of each Character in the string.
 You may assume that the input string has at least one character.
     </p>
     <p>
       You may assume that the input string has at most length 10^5.
     </p>
-    <h2>Examples</h2>
+    <h3>Examples</h3>
     <pre>
-longest_palindromic_substring("babad") => "bab" or "aba"
-longest_palindromic_substring("cbbd") => "bb"
-longest_palindromic_substring("a") => "a"
+frequency("Decode") => {d:2, e:2, c:1, o:1}
     </pre>
 
     <p>
       You can use any programming language you like. Let me know if you have any questions about the problems or if you need additional clarification.
     </p>
+
+
 
 
 
