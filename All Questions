@@ -78,25 +78,6 @@ fizzbuzz(15) => [1, 2, "Fizz", 4, "Buzz", "Fizz", 7, 8, "Fizz", "Buzz", 11, "Fiz
 fizzbuzz(5) => [1, 2, "Fizz", 4, "Buzz"]
 fizzbuzz(3) => [1, 2, "Fizz"]
 
-
-Problem 4 - intermediate;
-Write a function largest_rectangle_area that takes a list of non-negative integers heights and returns the area of the largest rectangle that can be formed using the given heights as the heights of the rectangles.
-
-For example, given the list [2, 1, 5, 6, 2, 3], the function should return 10, because the largest rectangle can be formed using the heights [2, 2], which has an area of 4 and the heights [5, 6], which has an area of 6, for a total area of 10.
-
-You may assume that the input list has at least one element.
-
-Constraints
-The input list has at most length $10^5$.
-The elements of the input list are non-negative integers with value at most $10^6$.
-
-Examples
-
-largest_rectangle_area([2, 1, 5, 6, 2, 3]) => 10
-largest_rectangle_area([3, 6, 5, 7, 4]) => 12
-largest_rectangle_area([5, 4, 3, 2, 1]) => 9
-
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 problem 5 - 10.01.23
 
@@ -132,4 +113,18 @@ You may assume that the input string has at least one character.
 Examples:
 frequency("Decode") => {d:2, e:2, c:1, o:1}
 frequency("Hello") => {h:1, e:1, l:2, o:1}
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Problem 8 - 13.01.23;
+Write a function largest_rectangle_area that takes a list of non-negative integers heights and returns the area of the largest rectangle that can be formed using the given heights as the heights of the rectangles.
+For example, given the list [2, 1, 5, 6, 2, 3], the function should return 10, because the largest rectangle can be formed using the heights [2, 2], which has an area of 4 and the heights [5, 6], which has an area of 6, for a total area of 10.
+You may assume that the input list has at least one element.
+
+Constraints
+The input list has at most length $10^5$.
+The elements of the input list are non-negative integers with value at most $10^6$.
+
+Examples
+largest_rectangle_area([2, 1, 5, 6, 2, 3]) => 10
+largest_rectangle_area([3, 6, 5, 7, 4]) => 12
+largest_rectangle_area([5, 4, 3, 2, 1]) => 9
 ----------------------------------------------------------------------------------------------------------------------------------------------------
