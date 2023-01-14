@@ -1,19 +1,22 @@
-<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/13.01.23
+<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/14.01.23
 <span id="a">@decode</span>:<span id="b">~</span><span id="c">$</span>  Problem of the day;
  "<span id="k">Find the solution</span>". <!-- sjkfhskjf -->
-    <h3>Problem 8</h3>
+    <h3>Problem 9</h3>
     <p>
-Write a function largest_rectangle_area that takes a list of non-negative integers heights and returns the area of the largest rectangle that can be formed using the given heights as the heights of the rectangles.
-For example, given the list [2, 1, 5, 6, 2, 3], the function should return 10, because the largest rectangle can be formed using the heights [2, 2], which has an area of 4 and the heights [5, 6], which has an area of 6, for a total area of 10.
-You may assume that the input list has at least one element.
+Write a function min_steps that takes a positive integer n and returns the minimum number of steps needed to reach 1 by applying the following rules:
+If n is even, divide it by 2.
+If n is odd, either add 1 or subtract 1.
    </p>
+   <h3>Constraints</h3>
+   <p>n is a positive integer with value at most $10^6$.</p>
     <h3>Examples</h3>
     <pre>
-largest_rectangle_area([2, 1, 5, 6, 2, 3]) => 10
-largest_rectangle_area([3, 6, 5, 7, 4]) => 12
-largest_rectangle_area([5, 4, 3, 2, 1]) => 9
+     min_steps(1) => 0
+     min_steps(2) => 1
+     min_steps(3) => 2
+     min_steps(4) => 2
+     min_steps(5) => 3
     </pre>
-    
     <p>
       You can use any programming language you like. Let me know if you have any questions about the problems or if you need additional clarification.
     </p>
