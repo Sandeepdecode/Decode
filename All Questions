@@ -49,23 +49,6 @@ is_prime(4) => False
 is_prime(5) => True
 is_prime(6) => False
 
-Problem 3 - intermediate
-
-Write a function min_steps that takes a positive integer n and returns the minimum number of steps needed to reach 1 by applying the following rules:
-
-If n is even, divide it by 2.
-If n is odd, either add 1 or subtract 1.
-
-Constraints
-n is a positive integer with value at most $10^6$.
-
-Examples
-min_steps(1) => 0
-min_steps(2) => 1
-min_steps(3) => 2
-min_steps(4) => 2
-min_steps(5) => 3
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Problem 4 - begineer;
@@ -127,4 +110,22 @@ Examples
 largest_rectangle_area([2, 1, 5, 6, 2, 3]) => 10
 largest_rectangle_area([3, 6, 5, 7, 4]) => 12
 largest_rectangle_area([5, 4, 3, 2, 1]) => 9
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Problem 9 - 14.01.23
+
+Write a function min_steps that takes a positive integer n and returns the minimum number of steps needed to reach 1 by applying the following rules:
+
+If n is even, divide it by 2.
+If n is odd, either add 1 or subtract 1.
+
+Constraints
+n is a positive integer with value at most $10^6$.
+
+Examples
+min_steps(1) => 0
+min_steps(2) => 1
+min_steps(3) => 2
+min_steps(4) => 2
+min_steps(5) => 3
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
