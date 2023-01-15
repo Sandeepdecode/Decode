@@ -129,3 +129,32 @@ min_steps(4) => 2
 min_steps(5) => 3
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+Problem: 10 - specail
+
+Given a string containing only digits, restore it by returning all possible valid IP address combinations.
+
+A valid IP address consists of four fields, each field is separated by a "." and must contain a value between 0 and 255 (inclusive).
+
+For example:
+
+Input: "25525511135"
+Output: ["255.255.11.135", "255.255.111.35"]
+
+Constraints:
+
+The string length must be between 4 and 12.
+Coding:
+
+Create a helper function is_valid(s) that returns True if a given string s is a valid IP field (i.e. between 0 and 255 inclusive) and False otherwise.
+Initialize an empty list res to store the valid IP addresses.
+Use a nested for loop to generate all possible combinations of IP fields.
+In the innermost loop, use the helper function to check if the current combination of fields is valid. If it is, add it to the res list as a string joined by ".".
+Return the res list.
+Note:
+
+Be mindful of edge cases, like leading zeros in the fields and fields greater than 255.
+Your task is to write a function that will take the string as an input and returns all possible valid IP address combinations.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
