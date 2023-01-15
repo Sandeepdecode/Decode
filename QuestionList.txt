@@ -1,22 +1,15 @@
-<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/14.01.23
+<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/15.01.23
 <span id="a">@decode</span>:<span id="b">~</span><span id="c">$</span>  Problem of the day;
  "<span id="k">Find the solution</span>". <!-- sjkfhskjf -->
-    <h3>Problem 9</h3>
-    <p>
-Write a function min_steps that takes a positive integer n and returns the minimum number of steps needed to reach 1 by applying the following rules:
-If n is even, divide it by 2.
-If n is odd, either add 1 or subtract 1.
-   </p>
-   <h3>Constraints</h3>
-   <p>n is a positive integer with value at most $10^6$.</p>
-    <h3>Examples</h3>
-    <pre>
-     min_steps(1) => 0
-     min_steps(2) => 1
-     min_steps(3) => 2
-     min_steps(4) => 2
-     min_steps(5) => 3
-    </pre>
+h1>Special Problems 10 ->IP Address Restoration</h1>
+  <p>Given a string containing only digits, restore it by returning all possible valid IP address combinations. A valid IP address consists of four fields, each field is separated by a "." and must contain a value between 0 and 255 (inclusive).</p>
+  <p>Constraints:</p>
+  <ul>
+    <li>The string length must be between 4 and 12.</li>
+  </ul>
+  <p>Example:</p>
+  <p>Input: "25525511135"</p>
+  <p>Output: ["255.255.11.135", "255.255.111.35"]</p>
     <p>
       You can use any programming language you like. Let me know if you have any questions about the problems or if you need additional clarification.
     </p>
