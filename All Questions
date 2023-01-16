@@ -155,6 +155,14 @@ Note:
 Be mindful of edge cases, like leading zeros in the fields and fields greater than 255.
 Your task is to write a function that will take the string as an input and returns all possible valid IP address combinations.
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+Problem 11
+Create a function that takes two parameters, a list of integers and an integer.
+The function should return a new list of integers that contains only the elements of the original list that are divisible by the given integer.
 
-
+Example:
+>>> divisible_by([1, 2, 3, 4, 5, 6], 2)
+[2, 4, 6]
+>>> divisible_by([1, 2, 3, 4, 5, 6], 3)
+[3, 6]
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
