@@ -165,4 +165,14 @@ Example:
 >>> divisible_by([1, 2, 3, 4, 5, 6], 3)
 [3, 6]
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+Problem: 12
+
+Create a program that takes a string as input and outputs the number of vowels in the string. A vowel is defined as a, e, i, o, u or A, E, I, O, U.
+Example output:
+count_vowels("Hello World!") == 3
+count_vowels("This is a test") == 3
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
