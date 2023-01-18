@@ -1,13 +1,19 @@
-<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/17.01.23
+<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/18.01.23
 <span id="a">@decode</span>:<span id="b">~</span><span id="c">$</span>  Problem of the day;
  "<span id="k">Find the solution</span>". <!-- sjkfhskjf -->
-<h1>Problems 12 </h1>
-  <p>Create a program that takes a string as input and outputs the number of vowels in the string. A vowel is defined as a, e, i, o, u or A, E, I, O, U.</p>
-  <h3>Example output</h3>
+<h3>Problems 13 </h3>
+  <p>Write a program that takes an array of integers as input and returns an array of all the duplicate elements.</p>
+  <h3>Example </h3>
   <pre>
-count_vowels("Hello World!") == 3
-count_vowels("This is a test") == 3
+Input: [1, 2, 3, 4, 2, 5, 3, 6, 7, 8, 8]
+Output: [2, 3, 8]
   </pre>
+    <h3>Hint: </h3>
+    <p>
+    Use a nested loop to compare each element with all the other elements in the array.
+    Use a set or map to keep track of the elements that have been found to be duplicates.
+    Use the filter method to filter out duplicate elements
+    </p>
     <p>
       You can use any programming language you like. Let me know if you have any questions about the problems or if you need additional clarification.
     </p>
