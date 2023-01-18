@@ -172,6 +172,26 @@ Example output:
 count_vowels("Hello World!") == 3
 count_vowels("This is a test") == 3
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+Problem 13:
+Problem: Find the duplicate elements in an array
+
+Write a program that takes an array of integers as input and returns an array of all the duplicate elements.
+
+For example:
+
+Input: [1, 2, 3, 4, 2, 5, 3, 6, 7, 8, 8]
+Output: [2, 3, 8]
+Hint:
+
+Use a nested loop to compare each element with all the other elements in the array.
+Use a set or map to keep track of the elements that have been found to be duplicates.
+Use the filter method to filter out duplicate elements
+Try to implement all the above ways and compare which one is more efficient in terms of time and space complexity.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
