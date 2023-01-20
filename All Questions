@@ -193,6 +193,15 @@ Create a program that takes a string as input and returns a new string with all 
 
 For example, if the input string is "Hello World!", the output should be "Hll Wld!".
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+Problem of the Day 15:
+
+Given a list of integers, write a function that finds the pair of integers that have the smallest absolute difference. If there are multiple pairs with the same absolute difference, return the pair with the smallest sum.
+
+Example:
+Input: [3, 8, -10, 23, 19, -4, -14, 27]
+Output: (-14, -10) or (8, 10) (both pairs have an absolute difference of 4)
+
+Note: Your solution should have a time complexity of O(n log n) or better.
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
