@@ -203,6 +203,13 @@ Output: (-14, -10) or (8, 10) (both pairs have an absolute difference of 4)
 
 Note: Your solution should have a time complexity of O(n log n) or better.
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+Problem 16:
+Write a function that takes in a list of strings and returns the most common string that appears in the list. 
+If there are multiple strings that appear with the same frequency, return the one that appears first in the input list.
+
+Example:
+Input: ["apple", "banana", "orange", "apple", "banana", "kiwi"]
+Output: "apple"
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
