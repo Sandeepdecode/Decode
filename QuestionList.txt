@@ -1,14 +1,15 @@
-<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/20.01.23
+<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/21.01.23
 <span id="a">@decode</span>:<span id="b">~</span><span id="c">$</span>  Problem of the day;
 
  "<span id="k">Find the solution</span>". <!-- sjkfhskjf -->
  
-	<h3>Smallest Absolute Difference Pair</h3>
-	<p>Given a list of integers, write a function that finds the pair of integers that have the smallest absolute difference. If there are multiple pairs with the same absolute difference, return the pair with the smallest sum.</p>
+	<h3>Problem 16</h3>
+<p>
+Write a function that takes in a list of strings and returns the most common string that appears in the list. If there are multiple strings that appear with the same frequency, return the one that appears first in the input list.
+</p>
 	<p><strong>Example:</strong></p>
-	<p>Input: [3, 8, -10, 23, 19, -4, -14, 27]</p>
-	<p>Output: (-14, -10) or (8, 10) (both pairs have an absolute difference of 4)</p>
-	<p><strong>Note:</strong> Your solution should have a time complexity of O(n log n) or better.</p>
+	<p>Input: ["apple", "banana", "orange", "apple", "banana", "kiwi"]</p>
+	<p>Output: "apple"</p>
     <p>
       You can use any programming language you like. Let me know if you have any questions about the problems or if you need additional clarification.
     </p>
