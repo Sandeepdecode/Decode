@@ -1,18 +1,20 @@
-<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/21.01.23
+<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/22.01.23
 <span id="a">@decode</span>:<span id="b">~</span><span id="c">$</span>  Problem of the day;
 
  "<span id="k">Find the solution</span>". <!-- sjkfhskjf -->
  
-	<h3>Problem 16</h3>
+	<h3>Problem 17</h3>
 <p>
-Write a function that takes in a list of strings and returns the most common string that appears in the list. If there are multiple strings that appear with the same frequency, return the one that appears first in the input list.
+Given an array of integers, write a function that returns the highest product that can be obtained by multiplying any three integers in the array.
 </p>
 	<p><strong>Example:</strong></p>
-	<p>Input: ["apple", "banana", "orange", "apple", "banana", "kiwi"]</p>
-	<p>Output: "apple"</p>
+	<p>Input: [1, 2, 3, 4, 5]</p>
+	<p>Output: 60 (4 * 5 * 3)</p>
     <p>
       You can use any programming language you like. Let me know if you have any questions about the problems or if you need additional clarification.
     </p>
+    
+
 
 
 
