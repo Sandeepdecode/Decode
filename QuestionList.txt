@@ -1,15 +1,15 @@
-<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/22.01.23
+<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/23.01.23
 <span id="a">@decode</span>:<span id="b">~</span><span id="c">$</span>  Problem of the day;
 
  "<span id="k">Find the solution</span>". <!-- sjkfhskjf -->
  
-	<h3>Problem 17</h3>
+	<h3>Problem 18</h3>
 <p>
-Given an array of integers, write a function that returns the highest product that can be obtained by multiplying any three integers in the array.
+Given an array of integers, write a function that returns the second highest number in the array.
 </p>
 	<p><strong>Example:</strong></p>
 	<p>Input: [1, 2, 3, 4, 5]</p>
-	<p>Output: 60 (4 * 5 * 3)</p>
+	<p>Output: 4</p>
     <p>
       You can use any programming language you like. Let me know if you have any questions about the problems or if you need additional clarification.
     </p>
