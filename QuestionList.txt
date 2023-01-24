@@ -1,15 +1,17 @@
-<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/23.01.23
+<span id="a">sandeep@decode</span>:<span id="b">~</span><span id="c">$</span> cd Decode/24.01.23
 <span id="a">@decode</span>:<span id="b">~</span><span id="c">$</span>  Problem of the day;
 
  "<span id="k">Find the solution</span>". <!-- sjkfhskjf -->
  
-	<h3>Problem 18</h3>
-<p>
-Given an array of integers, write a function that returns the second highest number in the array.
-</p>
-	<p><strong>Example:</strong></p>
-	<p>Input: [1, 2, 3, 4, 5]</p>
-	<p>Output: 4</p>
+	<h3>Problem 19</h3>
+<pre>
+Given a string, write a function that returns the first non-repeated character in the string.
+
+Example:
+Input: "hello world"
+Output: "h"
+
+</pre>
     <p>
       You can use any programming language you like. Let me know if you have any questions about the problems or if you need additional clarification.
     </p>
