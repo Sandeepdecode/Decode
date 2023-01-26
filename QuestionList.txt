@@ -5,14 +5,14 @@
  
 	<h3>Problem 19</h3>
 <pre>
-Given a list of integers, write a function that finds the two numbers that add up to a specific target number.
+Problem: Given a string of characters, write a function that returns the first non-repeated character in the string.
 
 Example:
-Input: [1, 2, 3, 4, 5], target = 7
-Output: [2, 5]
+Input: "hello"
+Output: 'h'
 
-Note: Your solution should have a time complexity of O(n) or better.
-
+Input: "javascript"
+Output: 'j'
 </pre>
     <p>
       You can use any programming language you like. Let me know if you have any questions about the problems or if you need additional clarification.
