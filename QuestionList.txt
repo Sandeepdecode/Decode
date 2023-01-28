@@ -3,18 +3,15 @@
 
  "<span id="k">Find the solution</span>". <!-- sjkfhskjf -->
  
-	<h3>Problem 19</h3>
+	<h3>Problem 23</h3>
 <pre>
-Problem: Given a string, write a function that checks if the string is a palindrome (a word, phrase, or sequence that reads the same backwards as forwards).
+Problem 23:
+A sentence is a list of words that are separated by a single space with no leading or trailing spaces.
+You are given an array of strings sentences, where each sentences[i] represents a single sentence.
+Return the maximum number of words that appear in a single sentence
 
-Example:
-Input: "racecar"
-Output: true
-
-Input: "hello"
-Output: false
-
-Note: Your solution should have a time complexity of O(n) or better.
+Input: sentences = ["alice and bob love leetcode", "i think so too", "this is great thanks very much"]
+Output: 6
 </pre>
     <p>
       You can use any programming language you like. Let me know if you have any questions about the problems or if you need additional clarification.
