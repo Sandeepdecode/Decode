@@ -5,17 +5,19 @@
  
 	<h3>Problem 24</h3>
 <pre>
-Problem 24:
-Given an integer n, return true if it is a power of two. Otherwise, return false.
-An integer n is a power of two, if there exists an integer x such that n == 2^x.
+Problem 25:
+You're given strings jewels representing the types of stones that are jewels, and stones representing the stones you have.
+Each character in stones is a type of stone you have. 
+You want to know how many of the stones you have are also jewels.
+Letters are case sensitive, so "a" is considered a different type of stone from "A".
 
-Input: n = 1
-Output: true
-Explanation: 2^0 = 1
+Example 1:
+Input: jewels = "aA", stones = "aAAbbbb"
+Output: 3
 
-Input: n = 16
-Output: true
-Explanation: 2^4 = 16
+Example 2:
+Input: jewels = "z", stones = "ZZ"
+Output: 0
 </pre>
     <p>
       You can use any programming language you like. Let me know if you have any questions about the problems or if you need additional clarification.
