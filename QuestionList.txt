@@ -3,7 +3,7 @@
 
  "<span id="k">Find the solution</span>". <!-- sjkfhskjf -->
  
-	<h3>Problem 25</h3>
+	<h3>Problem 26</h3>
 <pre>
 Write a function in  to generate the first "n" numbers of the Fibonacci series.
 </pre>
