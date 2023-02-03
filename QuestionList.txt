@@ -5,7 +5,7 @@
  
 	<h3>Problem 27</h3>
 <pre>
-Write a   function to sort the given array in ascending order.
+Write a   function to sort the given array in descending  order.
 </pre>
     <p>
       You can use any programming language you like. Let me know if you have any questions about the problems or if you need additional clarification.
